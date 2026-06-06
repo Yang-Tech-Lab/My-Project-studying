@@ -1,5 +1,5 @@
 # My Project:studying and working(Linux)
-Software:Python、
+Software:Python
 
 
 
