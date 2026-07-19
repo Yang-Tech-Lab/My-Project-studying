@@ -1,4 +1,4 @@
-# My Project:studying and working(PC system:Linux)
+# My-Project studying (PC system:Linux)
 Tech-stack：Golang
 
 
